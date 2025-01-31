@@ -27,7 +27,7 @@ The system recognizes four basic hand gestures: **Open**, **Close**, **Pointer**
 HandGestureRecognition
 ├── /code # Python code for real-time gesture recognition
 ├── /reference # reference paper
-├── /paper # paper of this project
+├── paper # paper of this project
 ├── README.md # This README file
 ```
 
